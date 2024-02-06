@@ -19,10 +19,10 @@ app.use(express.json())
 app.use(session)
 app.use(express.static('public'))
 
-// if (process.env.NODE_ENV === 'production') {
-//     // Express serve static files on production environment
-//     app.use(express.static(path.resolve(__dirname, 'public')))
-// } else {
+if (process.env.NODE_ENV === 'production') {
+    // Express serve static files on production environment
+    app.use(express.static(path.resolve(__dirname, 'public')))
+} else {
     // Configuring CORS
     const corsOptions = {
         // Make sure origin contains the url your frontend is running on
@@ -30,7 +30,7 @@ app.use(express.static('public'))
         credentials: true
     }
     app.use(cors(corsOptions))
-// }
+}
 
 app.use(cors());
 app.options("*", cors());
