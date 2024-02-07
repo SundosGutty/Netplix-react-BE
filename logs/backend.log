@@ -1730,3 +1730,6 @@
 2/7/2024, 6:37:28 PM - DEBUG - auth.service - signup with emailAddress: asd, firstName: asd@asd.com
 2/7/2024, 6:37:29 PM - DEBUG - auth.route - new account created: {"emailAddress":"asd@asd.com","password":"$2b$10$ov3C92IAqtnkDr85g6t3JuauYDPW6P1L1QWuSyBzsyCAQD0wAFLke","firstName":"asd","favMedia":[],"isNew":true,"img":"","_id":"65c3b1c95b1b9073f83a4ad1"}
 2/7/2024, 6:37:29 PM - DEBUG - auth.service - login with emailAddress: asd@asd.com
+2/7/2024, 7:02:59 PM - DEBUG - auth.service - signup with emailAddress: asda, firstName: asd@asd.co
+2/7/2024, 7:03:00 PM - DEBUG - auth.route - new account created: {"emailAddress":"asd@asd.co","password":"$2b$10$.Nqln1hgBMHYF.RQQnr4/eho2XsRx4/t7LpvEVuagxITwpEuPmbPS","firstName":"asda","favMedia":[],"isNew":true,"img":"","_id":"65c3b7c4439d5ba75f09980e"}
+2/7/2024, 7:03:00 PM - DEBUG - auth.service - login with emailAddress: asd@asd.co
