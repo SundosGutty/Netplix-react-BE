@@ -26,7 +26,7 @@ app.use(express.static('public'))
     // Configuring CORS
     const corsOptions = {
         // Make sure origin contains the url your frontend is running on
-        origin: ["*"],
+        origin: "*",
         credentials: true
     }
     app.use(cors(corsOptions))
