@@ -1713,3 +1713,20 @@
 2/6/2024, 12:04:02 PM - INFO - Req from: hsjdbfc
 2/6/2024, 12:17:34 PM - INFO - Req!!!
 2/6/2024, 12:17:35 PM - INFO - Req!!!
+2/7/2024, 4:45:09 PM - DEBUG - auth.service - signup with emailAddress: sdxcsdaxcsadcx, firstName: sfsadcszctdsxcsd@gmail.com
+2/7/2024, 4:45:10 PM - DEBUG - auth.route - new account created: {"emailAddress":"sfsadcszctdsxcsd@gmail.com","password":"$2b$10$KkDEtmCAi9DRwR.MBh.t0OtI8bjiZOgZl4gbRyOmw0p030Nsa4C8i","firstName":"sdxcsdaxcsadcx","favMedia":[],"isNew":true,"img":"","_id":"65c3977605a030e3ce4efd59"}
+2/7/2024, 4:45:10 PM - DEBUG - auth.service - login with emailAddress: sfsadcszctdsxcsd@gmail.com
+2/7/2024, 4:45:23 PM - INFO - Req!!!
+2/7/2024, 4:45:23 PM - INFO - Req from: sdxcsdaxcsadcx
+2/7/2024, 4:45:23 PM - INFO - Req!!!
+2/7/2024, 4:45:23 PM - INFO - Req from: sdxcsdaxcsadcx
+2/7/2024, 6:20:26 PM - DEBUG - auth.service - signup with emailAddress: asdcsa, firstName: sfasdxcasdxsadcszctd@gmail.com
+2/7/2024, 6:20:27 PM - DEBUG - auth.route - new account created: {"emailAddress":"sfasdxcasdxsadcszctd@gmail.com","password":"$2b$10$zB4jyhvEU06MPv70q9jIve.JFzogM3ZUtSD.PRtidYSPCDgrOIQ9e","firstName":"asdcsa","favMedia":[],"isNew":true,"img":"","_id":"65c3adcb202f27c49be00806"}
+2/7/2024, 6:20:27 PM - DEBUG - auth.service - login with emailAddress: sfasdxcasdxsadcszctd@gmail.com
+2/7/2024, 6:20:32 PM - INFO - Req!!!
+2/7/2024, 6:20:32 PM - INFO - Req from: asdcsa
+2/7/2024, 6:20:32 PM - INFO - Req!!!
+2/7/2024, 6:20:32 PM - INFO - Req from: asdcsa
+2/7/2024, 6:37:28 PM - DEBUG - auth.service - signup with emailAddress: asd, firstName: asd@asd.com
+2/7/2024, 6:37:29 PM - DEBUG - auth.route - new account created: {"emailAddress":"asd@asd.com","password":"$2b$10$ov3C92IAqtnkDr85g6t3JuauYDPW6P1L1QWuSyBzsyCAQD0wAFLke","firstName":"asd","favMedia":[],"isNew":true,"img":"","_id":"65c3b1c95b1b9073f83a4ad1"}
+2/7/2024, 6:37:29 PM - DEBUG - auth.service - login with emailAddress: asd@asd.com
