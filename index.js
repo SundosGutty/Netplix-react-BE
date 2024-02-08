@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(session);
 app.use(express.static('public'));
 app.use(cors({
-  origin: ['http://localhost:3000','https://main--curious-caramel-25f854.netlify.app'], // Allow requests from this origin
+  origin: ['http://localhost:3000','https://main--curious-caramel-25f854.netlify.app', ['*']], // Allow requests from this origin
   credentials: true // Allow credentials (cookies, authorization headers, etc.)
 }));
 

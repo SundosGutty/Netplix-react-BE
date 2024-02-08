@@ -1733,3 +1733,57 @@
 2/7/2024, 7:02:59 PM - DEBUG - auth.service - signup with emailAddress: asda, firstName: asd@asd.co
 2/7/2024, 7:03:00 PM - DEBUG - auth.route - new account created: {"emailAddress":"asd@asd.co","password":"$2b$10$.Nqln1hgBMHYF.RQQnr4/eho2XsRx4/t7LpvEVuagxITwpEuPmbPS","firstName":"asda","favMedia":[],"isNew":true,"img":"","_id":"65c3b7c4439d5ba75f09980e"}
 2/7/2024, 7:03:00 PM - DEBUG - auth.service - login with emailAddress: asd@asd.co
+2/7/2024, 10:31:14 PM - DEBUG - auth.service - signup with emailAddress: shgdcv, firstName: sdcjkg@gmail.com
+2/7/2024, 10:31:15 PM - DEBUG - auth.route - new account created: {"emailAddress":"sdcjkg@gmail.com","password":"$2b$10$4cDzQDZCACrAARjECf4Bb.nxAHkAnM.qWwVjdojNfI7SIOpYjoeNC","firstName":"shgdcv","favMedia":[],"isNew":true,"img":"","_id":"65c3e8934657e214f0389d62"}
+2/7/2024, 10:31:15 PM - DEBUG - auth.service - login with emailAddress: sdcjkg@gmail.com
+2/7/2024, 10:31:39 PM - INFO - Req!!!
+2/7/2024, 10:31:39 PM - INFO - Req from: shgdcv
+2/7/2024, 10:31:39 PM - INFO - Req!!!
+2/7/2024, 10:31:39 PM - INFO - Req from: shgdcv
+2/7/2024, 10:31:54 PM - INFO - Req!!!
+2/7/2024, 10:31:54 PM - INFO - Req from: shgdcv
+2/7/2024, 10:31:54 PM - INFO - Req!!!
+2/7/2024, 10:31:54 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:04 PM - INFO - Req!!!
+2/7/2024, 10:32:04 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:05 PM - INFO - Req!!!
+2/7/2024, 10:32:05 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:15 PM - INFO - Req!!!
+2/7/2024, 10:32:15 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:15 PM - INFO - Req!!!
+2/7/2024, 10:32:15 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:27 PM - INFO - Req!!!
+2/7/2024, 10:32:27 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:27 PM - INFO - Req!!!
+2/7/2024, 10:32:27 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:35 PM - INFO - Req!!!
+2/7/2024, 10:32:35 PM - INFO - Req from: shgdcv
+2/7/2024, 10:32:35 PM - INFO - Req!!!
+2/7/2024, 10:32:35 PM - INFO - Req from: shgdcv
+2/8/2024, 2:24:34 PM - DEBUG - auth.service - signup with emailAddress: jhsdac, firstName: asdcjb@gmail.com
+2/8/2024, 2:24:34 PM - DEBUG - auth.route - new account created: {"emailAddress":"asdcjb@gmail.com","password":"$2b$10$VVYsdTvavQ8amVWT.KIEzudjNH2qki2M6/R4/x5roAJ2ZPnQMexJC","firstName":"jhsdac","favMedia":[],"isNew":true,"img":"","_id":"65c4c8024657e214f0389d63"}
+2/8/2024, 2:24:34 PM - DEBUG - auth.service - login with emailAddress: asdcjb@gmail.com
+2/8/2024, 2:24:42 PM - INFO - Req!!!
+2/8/2024, 2:24:42 PM - INFO - Req from: jhsdac
+2/8/2024, 2:24:42 PM - INFO - Req!!!
+2/8/2024, 2:24:42 PM - INFO - Req from: jhsdac
+2/8/2024, 2:25:00 PM - INFO - Req!!!
+2/8/2024, 2:25:00 PM - INFO - Req from: jhsdac
+2/8/2024, 2:25:00 PM - INFO - Req!!!
+2/8/2024, 2:25:00 PM - INFO - Req from: jhsdac
+2/8/2024, 2:25:35 PM - INFO - Req!!!
+2/8/2024, 2:25:35 PM - INFO - Req from: jhsdac
+2/8/2024, 2:25:35 PM - INFO - Req!!!
+2/8/2024, 2:25:35 PM - INFO - Req from: jhsdac
+2/8/2024, 2:27:07 PM - INFO - Req!!!
+2/8/2024, 2:27:07 PM - INFO - Req from: jhsdac
+2/8/2024, 2:27:08 PM - INFO - Req!!!
+2/8/2024, 2:27:08 PM - INFO - Req from: jhsdac
+2/8/2024, 2:27:12 PM - INFO - Req!!!
+2/8/2024, 2:27:12 PM - INFO - Req from: jhsdac
+2/8/2024, 2:27:12 PM - INFO - Req!!!
+2/8/2024, 2:27:12 PM - INFO - Req from: jhsdac
+2/8/2024, 2:27:19 PM - INFO - Req!!!
+2/8/2024, 2:27:19 PM - INFO - Req from: jhsdac
+2/8/2024, 2:27:19 PM - INFO - Req!!!
+2/8/2024, 2:27:19 PM - INFO - Req from: jhsdac
